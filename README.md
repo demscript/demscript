@@ -1,5 +1,5 @@
-<!-- ### Hi there 👋 -->
-<p align=""><a href="#"><img width="40%" src="./images/opensource.jpeg" /></a></p>
+### Hi there 👋
+<!-- <p align=""><a href="#"><img width="40%" src="./images/opensource.jpeg" /></a></p> -->
 
 <!--
 **repzlaw/repzlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats-rongronggg9.vercel.app/api?username=demscript1&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demscript1&layout=default&theme=radical&count_private=true&show_icons=true&langs_count=10)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=repzlaw.repzlaw&theme=radical)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=demscript1.demscript1&theme=radical)
