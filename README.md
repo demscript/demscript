@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
-<p align="left"> <a href="https://twitter.com/demscript" target="blank"><img src="https://img.shields.io/twitter/follow/kofi_eo?logo=twitter&style=for-the-badge" alt="demscript" /></a> </p>
+<p align="left"> <a href="https://twitter.com/demscript" target="blank"><img src="https://img.shields.io/twitter/follow/demscript?logo=twitter&style=for-the-badge" alt="demscript" /></a> </p>
 
 <!-- - 🔭 I’m currently working on **Freelance Project** -->
 
