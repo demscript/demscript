@@ -29,14 +29,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,nextjs,nodejs,graphql,mongodb,firebase,aws,git,figma,typescript,jest,vscode)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,vuejs,php,nodejs,laravel,mongodb,aws,git,css,postman)](https://skills.thijs.gg)
 
 
 
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kofi-eo&&theme=tokyonight" alt="kofieo" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kofi-eo&layout=compact&theme=tokyonight"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demscript&&theme=tokyonight" alt="demscript" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=demscript&layout=compact&theme=tokyonight"/></p>
 
 
