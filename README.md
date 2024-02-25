@@ -11,7 +11,7 @@
 
 <!-- - 🔭 I’m currently working on **Freelance Project** -->
 
-- 🌱 I’m currently a **Laravel Developer**
+- 🌱 I’m a **Laravel Developer**
 
 - 💬 Ask me about **Anything Backend💯**
 
