@@ -5,8 +5,6 @@
 </br> 
 </br>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
-
 <p align="left"> <a href="https://twitter.com/demscript" target="blank"><img src="https://img.shields.io/twitter/follow/demscript?logo=twitter&style=for-the-badge" alt="demscript" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -23,14 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yczar&show_icons=true&locale=en&theme=onedark" alt="demscript" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yczar&theme=onedark" alt="demscript" /></p>
-
-
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demscript&&theme=tokyonight" alt="demscript" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=demscript&layout=compact&theme=tokyonight"/></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demscript&theme=onedark" alt="demscript" /></p>
 
