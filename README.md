@@ -1,9 +1,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Olúwadémiládé Ògégbò⚡</h1>
-<h3 align="center">Software Engineer | Part time gamer(It Flunctuates 😜)</h3>
+<h3 align="center">Software Engineer | Part-time gamer(It Flunctuates 😜)</h3>
 </br> 
 </br>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=demscript&label=Profile%20views&color=0e75b6&style=flat" alt="demscript" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demscript&theme=onedark" alt="demscript" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/demscript" target="blank"><img src="https://img.shields.io/twitter/follow/demscript?logo=twitter&style=for-the-badge" alt="demscript" /></a> </p>
 
