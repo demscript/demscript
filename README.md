@@ -14,7 +14,7 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demscript&show_icons=true&locale=en&layout=compact&theme=onedark" alt="demscript" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demscript&show_icons=true&locale=en&layout=compact&theme=onedark" alt="demscript" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demscript&show_icons=true&locale=en&theme=onedark" alt="demscript" /></p>
 
