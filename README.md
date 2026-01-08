@@ -22,13 +22,13 @@
 
 ---
 
-Hello and welcome to my GitHub profile! My name is Olúwadémiládé Ògégbò (demscript), and I am a fullstack developer specializing in Flutter, Angular, and PHP (Laravel).
+Hello and welcome to my GitHub profile! My name is Olúwadémiládé Ògégbò (demscript), and I am a Backend Engineer specializing in PHP (Laravel), AngularJS and Node.
 
 My passion for open source technology drives me to contribute to and learn from the incredible developer community on GitHub. I believe in the power of collaboration and the endless possibilities it brings.
 
 In my repositories, you'll discover a diverse collection of projects that highlight my expertise and interests. Whether it's building utility tools, crafting beautifully designed user interfaces, or developing robust backend solutions, I am constantly exploring new ways to innovate and improve.
 
-If you have any questions or want to discuss fullstack development, Flutter, Angular, or PHP, feel free to reach out! I am always excited to connect with fellow developers and explore new ideas together.
+If you have any questions or want to discuss Fullstack development, Angular, or PHP, feel free to reach out! I am always excited to connect with fellow developers and explore new ideas together.
 
 
 <h3 align="left">Connect with me:</h3>
